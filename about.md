@@ -1,14 +1,17 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+date: 2017-11-01T03:00:00.000+00:00
+banner_image: "/uploads/2019/04/29/adult-affection-baby-755028.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: 2017-12-01T04:00:00.000+00:00
 show_staff: true
+hero_button:
+  text: test
+  href: google.com
 menu:
   footer:
     identifier: _about
